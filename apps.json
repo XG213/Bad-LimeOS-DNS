@@ -1,0 +1,20 @@
+
+{
+  "code": "print('test')"
+  "apps": [
+    {
+      "name": "Hi",
+      "developerName": "hi",
+      "version": "hi",
+      "downloadURL": "nil",
+      "description": "hi",
+      "iconID": "0",
+      "dateAdded": "hi",
+      "genre": "other",
+      "compatibility": "false",
+      "banned": "false",
+      "openSource": "false",
+      "startMenuEntry": "false"
+    }
+  ]
+}
